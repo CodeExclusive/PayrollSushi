@@ -1,2 +1,2 @@
-# PayrollSushi-HRMS
+# PayrollSushi
 Payroll Sushi HR Management System
